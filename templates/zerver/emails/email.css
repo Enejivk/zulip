@@ -140,7 +140,7 @@ p.digest_paragraph,
 
 .messages p.digest_paragraph {
     line-height: normal;
-    margin: 0px 0;
+    margin: 0;
 }
 
 .body p li,
@@ -225,7 +225,7 @@ p.digest_paragraph,
     font-size: 12px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     overflow-y: auto;
-    margin-bottom: 12px;
+    margin: 0 auto 12px;
 }
 
 .hot_convo_recipient_block {
